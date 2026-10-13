@@ -21,6 +21,4 @@ Vibe coding — small apps and tools, built fast and shipped faster.
 - 🌐 Blog: [ptolemydl.blog](https://ptolemydl.blog)
 - 💼 LinkedIn: [danniel-hu-63b52a1bb](https://www.linkedin.com/in/danniel-hu-63b52a1bb)
 
----
 
-*Open to R&D roles in medical devices — GTA / Canada.*
